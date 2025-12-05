@@ -1,0 +1,5 @@
+<?php
+const HUNTER_API_KEY = '1a8d9f9c56ebbe4110b93f554f6e9f98f3a21503';
+
+define("RECAPTCHA_SITE_KEY",   "6LcnTCIsAAAAACOphZi0BU7pf16bgdShMcLh9Euz");
+define("RECAPTCHA_SECRET_KEY", "6LcnTCIsAAAAAN4E7yjwOM_GJTyjygv916ykUVgb");
